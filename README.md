@@ -1,4 +1,5 @@
 <h1>天府雄州·幸福简阳</h1>
+<img src="https://img.shields.io/badge/license-GPLv3-blue.svg" />
 <br>
 <br>
 <h4>关于</h4>
